@@ -1,10 +1,12 @@
 # AWS S3 Static Website Hosting
 
+![AWS](https://img.shields.io/badge/AWS-S3-orange)
+![Static Website](https://img.shields.io/badge/Static%20Website-Hosting-blue)
+![HTML](https://img.shields.io/badge/HTML-Page-orange)
+
+![Project Preview](preview.png)
+
 Projeto de hospedagem de site estático utilizando **Amazon S3**.
-
-## Preview
-
-![Preview do site](preview.png)
 
 ## Live Demo
 
@@ -28,3 +30,4 @@ http://raphaely-s3-static-site.s3-website.us-east-2.amazonaws.com
 ## Autor
 
 Raphaely Magalhães
+
